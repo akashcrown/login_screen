@@ -22,7 +22,7 @@ class _LoginFormState extends State<LoginForm> {
             ),
             TextField(
               decoration: InputDecoration(
-                hintText: 'Email',
+                hintText: 'Email/user name',
                 prefixIcon: Icon(Icons.email),
               ),
             ),
